@@ -1,0 +1,9 @@
+!SESSION 2024-12-01 06:11:02.321 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.adobe.editor.cfml 4 0 2024-12-01 06:12:41.801
+!MESSAGE 
